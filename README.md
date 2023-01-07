@@ -1,6 +1,5 @@
 - uses: Platane/snk@v2
-  with:
-    github_user_name: $ https://github.com/13g3nd
+  with: $ https://github.com/13g3nd
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
